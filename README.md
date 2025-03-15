@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anacarolgc
 - 👀 I’m interested in learning more about programming, cloud and machine learning.
-- 🌱 I’m currently learning programming languages ​​such as Python, JAVA, Javascript. 
+- 🌱 I’m currently learning programming languages ​​such as Python, JAVA, Javascript, Go. 
 
 <!---
 anacarolgc/anacarolgc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
